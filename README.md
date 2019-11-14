@@ -2,4 +2,4 @@
 
 Written in AHK.
 
-Monitors Glasscubec/Desktop Connect process.
+Monitors Glasscubes/Desktop Connect process.
