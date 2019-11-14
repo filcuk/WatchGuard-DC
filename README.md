@@ -1,2 +1,5 @@
-# WatchGuard_DC
-WatchGuard for Desktop Connect
+# WatchGuard for Desktop Connect
+
+Written in AHK.
+
+Monitors Glasscubec/Desktop Connect process.
